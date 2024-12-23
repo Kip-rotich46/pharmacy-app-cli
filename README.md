@@ -1,0 +1,1 @@
+# pharmarcy-app-cli
